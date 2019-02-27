@@ -1,0 +1,33 @@
+body {
+    background: rgb(71, 65, 65);
+    font-family: "Garamond";
+    color: white;
+    
+
+}
+
+h2 {
+
+    color: black;
+    background-color: white;
+    font-family: "Times New Roman";
+    font-size: 60px
+    
+}
+
+p {
+color: white;
+
+}
+
+ul {
+    font-size: 30px
+    font-family: "Georgia";
+
+
+}
+
+iframe {
+
+    padding: 50px
+}
